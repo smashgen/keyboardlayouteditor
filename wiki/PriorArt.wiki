@@ -1,0 +1,28 @@
+#summary Prior Art
+
+= Introduction =
+
+In this page we document any prior art regarding keyboard layout editors.
+
+= Completely unsorted list =
+ 
+ * [http://www.freedesktop.org/wiki/Software/XKeyboardConfig xkeyboard-config project], with links to documentation, developer website.
+  * [http://webcvs.freedesktop.org/xkeyboard-config/xkeyboard-config/symbols/ keyboard layout files]
+ * [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=KeymanVsMSKLC Comparing Keyman Developer and Microsoft Keyboard Layout Creator]
+ * [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=KeymanIPATutorial Creating layouts with Keyman, walkthrough to Keyman layout format]
+ * [http://wordherd.com/keyboards/ Convert/create layouts through web tool(OSX specific?)]
+ * [http://benleivian.wordpress.com/2006/04/24/keyboard-viewer/ Keyboard view utility in OS/X]
+ * [http://blogs.msdn.com/michkap/ Michael Kaplan's blog (around MS Layout Creator)]
+
+ * Different layout formats
+  # XKB
+  # SCIM
+  # KeyMan
+  # OS/X XML format. [http://developer.apple.com/technotes/tn2002/tn2056.html link/dtd]
+  # Windows binary format. link?, spec?
+
+ * Existing programs that create keyboard layouts
+  # [http://www.tavultesoft.com/keymandev/ Keyman Developer]
+  # [http://www.microsoft.com/globaldev/tools/msklc.mspx Microsoft Keyboard Layout Creator]
+  # [http://scripts.sil.org/ukelele Ukelele], by Sil.org, OS/X program for OS/X layouts
+  # 
