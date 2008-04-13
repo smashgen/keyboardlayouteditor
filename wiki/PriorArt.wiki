@@ -20,7 +20,7 @@ In this page we document any prior art regarding keyboard layout editors.
  * Different layout formats
   # XKB
   # SCIM
-  # KeyMan
+  # [http://www.tavultesoft.com/account/home/download/index.php?DownloadCategoryID=9 Keyman Developer PDF documentation (build 6.0.164.0)]
   # OS/X XML format. [http://developer.apple.com/technotes/tn2002/tn2056.html link/dtd]
   # Windows binary format. link?, spec?
 
@@ -28,4 +28,4 @@ In this page we document any prior art regarding keyboard layout editors.
   # [http://www.tavultesoft.com/keymandev/ Keyman Developer]
   # [http://www.microsoft.com/globaldev/tools/msklc.mspx Microsoft Keyboard Layout Creator], not available to use with Wine, etc.
   # [http://scripts.sil.org/ukelele Ukelele], by Sil.org, OS/X program for OS/X layouts
-  # 
+  # [http://www.mail-archive.com/gnome-devel-list@gnome.org/msg00509.html KLC], Keyboard Layout Creator by Ankit, written in GTK+, for SCIM and IIIMF, [http://indianoss.cvs.sourceforge.net/indianoss/KLC/src/ source].
