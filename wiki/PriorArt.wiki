@@ -17,7 +17,7 @@ In this page we document any prior art regarding keyboard layout editors.
  * [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=SILKeyboards Keyman sample layouts from sil.org]
  * [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=keylayoutmaker Perl script, from simple format creates OS/X .keylayout XML layout files]
  * [http://www.open-std.org/jtc1/sc35/wg1/docs/projects#24757 
-ISO/IEC 24757 Information technology -- Keyboard interaction model, machine-readable description and interaction of keyboard keys]
+ISO/IEC 24757 Information technology Keyboard interaction model, machine-readable description and interaction of keyboard keys]
 
  * Different layout formats
   # XKB
