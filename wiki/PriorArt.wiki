@@ -1,10 +1,10 @@
-#summary Prior Art
+#summary Resources
 
 = Introduction =
 
 In this page we document any prior art regarding keyboard layout editors.
 
-= Completely unsorted list =
+= Somewhat sorted list =
  
  * [http://www.freedesktop.org/wiki/Software/XKeyboardConfig xkeyboard-config project], with links to documentation, developer website.
   * [http://webcvs.freedesktop.org/xkeyboard-config/xkeyboard-config/symbols/ keyboard layout files]
@@ -18,9 +18,10 @@ In this page we document any prior art regarding keyboard layout editors.
  * [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=keylayoutmaker Perl script, from simple format creates OS/X .keylayout XML layout files]
  * [http://www.open-std.org/jtc1/sc35/wg1/docs/projects#24757 
 ISO/IEC 24757 Information technology Keyboard interaction model, machine-readable description and interaction of keyboard keys]
+ * [http://www.charvolant.org/~doug/xkb/ An unreliable guide to XKB, by Doug Palmer, 2004] 
 
  * Different layout formats
-  # XKB
+  # [http://www.xfree86.org/current/XKBproto.pdf XKB]
   # SCIM
   # [http://www.tavultesoft.com/account/home/download/index.php?DownloadCategoryID=9 Keyman Developer PDF documentation (build 6.0.164.0)]
   # OS/X XML format. [http://developer.apple.com/technotes/tn2002/tn2056.html link/dtd]
